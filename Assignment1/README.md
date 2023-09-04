@@ -16,7 +16,7 @@
 
 ## 🔗 ChatGPT Link
 
-You can find related discussions at [ChatGPT](https://chat.openai.com/share/be716235-24b4-465d-8c16-478c42921eab).
+You can find pdf of chat in this Repository. You can find related discussions at [ChatGPT](https://chat.openai.com/share/be716235-24b4-465d-8c16-478c42921eab).
 
 ---
 
