@@ -55,3 +55,12 @@ Please respond to every part of this problem statement in reasonable chunk from 
 
 ---
 
+## 📜 License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+---
+
+## 🎉 Acknowledgements
+
+* [Harshith Akkapelli](https://github.com/HarshithAkkapelli) - Lead Developer
