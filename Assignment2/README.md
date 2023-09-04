@@ -18,17 +18,9 @@ All the main codebase can be found under the `GeneratedCodebase` folder.
 
 ---
 
-## 📝 Important Note
 
-\`\`\`
-You should write code for each file you define. Assume I don't know anything and generate everything for me. Write class, its controllers, service, repository for each one. Again, assume I don't know anything and generate everything for me. Then you will output the content of each file including ALL code.
 
-This is a really simple application so write the entire code.
-\`\`\`
-
----
-
-## 🏭 Scenario
+## 🏭 Prompt Used
 
 You are a Lead Software Engineer at AWS. Now you are given a task of "Building an Instagram-like app for your internal Amazon employees which will boost the productivity of employees".
 
