@@ -26,5 +26,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## 🎉 Acknowledgements
 
-* [Harshith Akkapelli](https://github.com/yourusername) - Lead Developer
+* [Harshith Akkapelli](https://github.com/HarshithAkkapelli) - Lead Developer
 
