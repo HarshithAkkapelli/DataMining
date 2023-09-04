@@ -26,7 +26,7 @@ For more information and insights, check out this [Medium Article](https://mediu
 
 ---
 
-## 📋 Task Description
+## 📋 Prompt
 
 > 🚀 **You are a Lead Machine Learning Engineer at AWS and you are working for your client IBM. Now you are being given a task by your client IBM. Below is description of your task: 
 Task you are given: Now you have been tasked with analysing the IBM HR Analytics Attrition dataset. 
